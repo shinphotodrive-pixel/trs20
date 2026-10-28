@@ -1,0 +1,7 @@
+{
+  "name": "TSR20 Speed Sign Radar Protocol Tester",
+  "description": "과속 경고 레이더 (TSR20 RS232 115200bps 8N1) 통신 프로토콜 테스트, 패킷 생성기 및 데이터 분석 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
